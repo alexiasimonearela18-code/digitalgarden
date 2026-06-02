@@ -75,4 +75,4 @@ Red: Locations
 -Color coded everything (see above for classification)
 -mentioned [[characters/Cast/side characters/L.O.R.D\|L.O.R.D]] in [[characters/Cast/Xemo Ashford\|Xemo Ashford]]'s desc
 -added [[Other/future plan board\|future plan board]]
--edited [[characters/Cast/0_cn\|0_cn]]'s info note
+-edited [[characters/Cast/0_cn\|0_cn]]'s info
