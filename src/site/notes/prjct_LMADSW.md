@@ -40,7 +40,7 @@
 
 
 # Authors Notes
- hello there! silver here, i hope this is an alright format for everyone i am really tired!!
+ hello there! silver here, i hope this is an alright format for everyone i am really tired!! i made a whole damn website for yall so you better be thankful.
  Alot and i mean ***ALOT*** of this is still a work in progress and is subject to change anytime.
  The format ive TRIED to keep consistent for all the notes rn (and ongoing) is:
 
