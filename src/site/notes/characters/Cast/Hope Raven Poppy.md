@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/cast/hope-raven-poppy/","dg-note-properties":{}}
 ---
 
+#character
 Creator:[[characters/Creators/Riel\|Riel]]
 She/her (i have not discussed with Riel fully ;-;)
 Notes:

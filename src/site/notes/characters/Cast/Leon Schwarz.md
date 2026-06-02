@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/cast/leon-schwarz/","dg-note-properties":{}}
 ---
 
+#character
 Creator:[[characters/Creators/Bubi\|Bubi]]
 he/they 
 Notes:

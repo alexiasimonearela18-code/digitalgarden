@@ -2,11 +2,12 @@
 {"dg-publish":true,"permalink":"/characters/cast/0-cn/","dg-note-properties":{}}
 ---
 
+#character
 Creator:[[characters/Creators/Tragedy\|Tragedy]]
 he/him
 Notes:
 -iron plating on his horns that serve as an inhibitor and protection
--idk how creative would take this but ive always seen him having some kind of religious trauma
+-still currently discussing the religious trauma with creative :P
 -french
 -bargaining
 
@@ -14,6 +15,8 @@ Notes:
 -father saves him
 -father drowns saving him
 -mother hates him now
+<span style="font-size: 0.8em;">*-(supposed religious trauma start, and from here on out)*<span>
+
 -very rough childhood
 -very smart tho
 -gets head researcher at the [[locations/Labs\|Labs]] place thingy

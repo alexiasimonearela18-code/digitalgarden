@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/characters/cast/k-i-n-g/","dg-note-properties":{}}
 ---
 
+#character
 Creator:[[characters/Creators/Lymi Cata\|Lymi Cata]]
 He/him
 Notes:
