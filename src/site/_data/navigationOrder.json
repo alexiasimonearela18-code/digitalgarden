@@ -1,0 +1,49 @@
+{
+  "/": [
+    "Other",
+    "characters",
+    "locations",
+    "tst"
+  ],
+  "/Other": [
+    "future plan board",
+    "prjct_LMADSW"
+  ],
+  "/characters": [
+    "Creators",
+    "Cast"
+  ],
+  "/characters/Creators": [
+    "Bubi",
+    "Lymi Cata",
+    "Riel",
+    "Silver",
+    "Tragedy"
+  ],
+  "/characters/Cast": [
+    "0_cn",
+    "Hope Raven Poppy",
+    "K.I.N.G",
+    "Leon Schwarz",
+    "Xemo Ashford",
+    "side characters"
+  ],
+  "/characters/Cast/side characters": [
+    "[redcacted] schwarz (wip)",
+    "Adonis poppy",
+    "Ender",
+    "L.O.R.D",
+    "Phoenix Ashford",
+    "Queen Lily-Lady lily"
+  ],
+  "/locations": [
+    "underworld",
+    "Labs"
+  ],
+  "/locations/underworld": [
+    "Aeros kingdom",
+    "forbidden outskirts",
+    "Noctryan kingdom",
+    "Solorus (i forgot, im remaking it i swear) Kingdom"
+  ]
+}
