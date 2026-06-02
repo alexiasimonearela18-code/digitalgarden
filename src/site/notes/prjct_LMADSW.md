@@ -5,6 +5,7 @@
 
 # ***WORK IN PROGRESS AND SUBJECT TO CHANGE ANYTIME!!!***
 **only the cast's files have been completed.**
+*spoilers for LMADSW ahead.*
 -Xealia
 (see below contents for further notes and info ^^)
 

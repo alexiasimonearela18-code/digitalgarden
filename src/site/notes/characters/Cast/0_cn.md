@@ -7,6 +7,7 @@ he/him
 Notes:
 -iron plating on his horns that serve as an inhibitor and protection
 -idk how creative would take this but ive always seen him having some kind of religious trauma
+-french
 -bargaining
 
 -accidentally almost drowns in lake
